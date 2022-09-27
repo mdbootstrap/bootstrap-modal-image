@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-modal-image",
+  "version": "1.0.0",
+  "description": "Responsive Modal image built with Bootstrap 5. Modal image is a responsive gallery with the option to enlarge selected photos or videos.",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-modal-image.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-modal-image",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-modal-image/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-image/"
+}
